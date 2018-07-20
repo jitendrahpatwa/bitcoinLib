@@ -1,7 +1,7 @@
 # A bitcoin blockchain library to integrate in a project used to explore bitcoin addresses and keys.
 
 # Features
-Easiest wat to explore all the bitcoin related stuffs in Javascript.
+Easiest way to explore all the bitcoin related stuffs in Javascript.
 
 # Installation
 ```
